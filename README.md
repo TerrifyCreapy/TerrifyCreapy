@@ -1,6 +1,7 @@
-<div id="header" align="center">###Hello, my name is Egor!</div>
-<!--
-**TerrifyCreapy/TerrifyCreapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <h1>Hello, my name is Egor!</h1>
+  <h3>Full stack developer, who lives in Kaluga town.</h3>
+</div>
 
 Here are some ideas to get you started:
 
